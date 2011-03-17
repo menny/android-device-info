@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ldpi">ldpi</string>
+    <string name="pref_pdi">ldpi</string>
+</resources>

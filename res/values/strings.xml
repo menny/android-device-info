@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ASK Device Information</string>
+    <string name="keys12">no</string>
+    <string name="dpad">no</string>
+    <string name="finger">no</string>
+    <string name="keysexposed">no</string>
+    <string name="keysoft">no</string>
+    <string name="long_resource">no</string>
+    <string name="nokeys">no</string>
+    <string name="nonav">no</string>
+    <string name="notlong">no</string>
+    <string name="notouch">no</string>
+    <string name="qwerty">no</string>
+    <string name="stylus">no</string>
+    <string name="trackball">no</string>
+    <string name="wheel">no</string>
+    
+    <string name="nodpi">no</string>
+    <string name="ldpi">no</string>
+    <string name="mdpi">no</string>
+    <string name="hdpi">no</string>
+    <string name="xhdpi">no</string>
+    <string name="pref_pdi">none</string>
+    
+    <string name="small">no</string>
+    <string name="normal">no</string>
+    <string name="large">no</string>
+    <string name="xlarge">no</string>
+    <string name="pref_screen">none</string>
+</resources>

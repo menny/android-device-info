@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="fill_parent" android:layout_height="fill_parent" 
+	android:orientation="vertical">
+	<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="horizontal">
+		<ImageView android:id="@+id/app_icon_view" android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/icon" android:scaleType="centerInside" android:adjustViewBounds="true"/>
+		<TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:text="Device information"/>
+	</LinearLayout>
+	
+	<ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1">
+		<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:orientation="vertical"
+    	     android:layout_marginLeft="8dp"
+	         android:layout_marginRight="8dp"
+	         android:id="@+id/layout"
+	         android:scrollbars="horizontal|vertical">						
+		</LinearLayout>
+	</ScrollView>
+</LinearLayout>
